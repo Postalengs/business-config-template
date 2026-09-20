@@ -1,0 +1,12 @@
+{
+  "name": "Example Business",
+  "phone": "(555) 555-0100",
+  "email": "hello@example.com",
+  "logoUrl": "/logo-placeholder.svg",
+  "location": "Main Location",
+  "colors": {
+    "primary": "#111827",
+    "secondary": "#6B7280",
+    "accent": "#2563EB"
+  }
+}
